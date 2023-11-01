@@ -1,7 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_XpznRuT)
-# Exam #12345: "CMSmall"
 
-## Student: s317783 BARBIERI FABIO  
+## Example Screenshot
+
+![Screenshot](./screens/home.jpeg)
+![Screenshot](./screens/dashboard.jpg)
+![Screenshot](./screens/page.jpg)
+![Screenshot](./screens/edit.jpg)
+![Screenshot](./screens/create.jpg)
+
 
 # Server side
 
@@ -210,17 +215,6 @@ UpdateBlocksRequest
 - `BlocksBar` (in `/pages/blocks`): Handles the creation of new blocks 
 
 (only _main_ components, minor ones may be skipped)
-
-# Usage info
-
-## Example Screenshot
-
-![Screenshot](./screens/home.jpeg)
-![Screenshot](./screens/dashboard.jpg)
-![Screenshot](./screens/page.jpg)
-![Screenshot](./screens/edit.jpg)
-![Screenshot](./screens/create.jpg)
-
 
 
 ## Users Credentials
