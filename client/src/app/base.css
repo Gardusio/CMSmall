@@ -1,0 +1,14 @@
+.page-container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    max-width: 1080px;
+    margin: auto;
+    padding: 2rem;
+}
+
+.page-container>p,
+.page-container>img,
+.page-container>h2 {
+    margin-bottom: 24px;
+}
